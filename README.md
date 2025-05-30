@@ -1,7 +1,12 @@
 # DevOps Visions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aymanaboghonim/devopsvisions-org-readme-demo/master/elmentor-landing-page/src/assets/images/DevOps-Visions.png" alt="DevOps Visions Logo" width="180"/>
+  <img src="elmentor-landing-page/src/assets/images/DevOps-Visions.png" alt="DevOps Visions Logo" width="220"/>
+</p>
+
+<p align="center" style="font-size:1.2em;">
+  <b>Empowering DevOps with Automation, Reusable Components, and Community Knowledge</b><br/>
+  <i>Innovation | Community | Professional Excellence</i>
 </p>
 
 ---
@@ -18,7 +23,16 @@
 
 ---
 
-> **Empowering DevOps with Automation, Reusable Components, and Community Knowledge**
+## 🚀 Quick Navigation
+
+<p align="center">
+  <a href="#about-devops-visions">About</a> •
+  <a href="#active-projects">Projects</a> •
+  <a href="#key-repositories">Key Repos</a> •
+  <a href="#contributors">Contributors</a> •
+  <a href="#get-involved">Get Involved</a> •
+  <a href="#license">License</a>
+</p>
 
 ---
 
@@ -34,7 +48,8 @@ This structure ensures that the community leads and grows, while DevOps Visions 
 
 ---
 
-## Table of Contents
+## 🚀 Quick Navigation
+
 - [About DevOps Visions](#about-devops-visions)
 - [Active Projects](#active-projects)
 - [Key Repositories](#key-repositories)
