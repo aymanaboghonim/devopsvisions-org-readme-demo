@@ -14,11 +14,24 @@
 ## 📊 Organization Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects-9-blue"/>
-  <img src="https://img.shields.io/badge/Contributors-10+-brightgreen"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow"/>
-  <img src="https://img.shields.io/github/stars/DevOpsVisions/question2answer-automation-toolkit?style=social"/>
-  <img src="https://img.shields.io/github/forks/DevOpsVisions/question2answer-automation-toolkit?style=social"/>
+  <img src="https://img.shields.io/badge/Projects-9-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributors-10+-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DevOpsVisions/question2answer-automation-toolkit/stargazers">
+    <img src="https://img.shields.io/github/stars/DevOpsVisions/question2answer-automation-toolkit?style=for-the-badge&label=Q2A%20Toolkit%20Stars"/>
+  </a>
+  <a href="https://github.com/DevOpsVisions/question2answer-automation-toolkit/network/members">
+    <img src="https://img.shields.io/github/forks/DevOpsVisions/question2answer-automation-toolkit?style=for-the-badge&label=Q2A%20Toolkit%20Forks"/>
+  </a>
+  <a href="https://github.com/DevOpsVisions/wordpress-automation-toolkit/stargazers">
+    <img src="https://img.shields.io/github/stars/DevOpsVisions/wordpress-automation-toolkit?style=for-the-badge&label=WP%20Toolkit%20Stars"/>
+  </a>
+  <a href="https://github.com/DevOpsVisions/devopsvisions.github.io/stargazers">
+    <img src="https://img.shields.io/github/stars/DevOpsVisions/devopsvisions.github.io?style=for-the-badge&label=Website%20Stars"/>
+  </a>
 </p>
 
 ---
