@@ -1,6 +1,20 @@
 # DevOps Visions
 
-![DevOps Visions Banner](https://devopsvisions.github.io/assets/img/banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aymanaboghonim/devopsvisions-org-readme-demo/master/elmentor-landing-page/src/assets/images/DevOps-Visions.png" alt="DevOps Visions Logo" width="180"/>
+</p>
+
+---
+
+## 📊 Organization Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-9-blue"/>
+  <img src="https://img.shields.io/badge/Contributors-10+-brightgreen"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow"/>
+  <img src="https://img.shields.io/github/stars/DevOpsVisions/question2answer-automation-toolkit?style=social"/>
+  <img src="https://img.shields.io/github/forks/DevOpsVisions/question2answer-automation-toolkit?style=social"/>
+</p>
 
 ---
 
@@ -17,18 +31,6 @@ DevOps Visions is the parent organization powering both the open DevOps communit
 - **The Elmentor Program** is a private, advanced mentoring initiative, supported by DevOps Visions for complex or strategic needs. See the [Elmentor Program GitHub Organization](https://github.com/ElmentorProgram) and the [Elmentor Landing Page](https://elmentor.devopsvisions.org) for more details.
 
 This structure ensures that the community leads and grows, while DevOps Visions provides professional expertise and support when needed.
-
----
-
-## 📊 Organization Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Projects-9-blue"/>
-  <img src="https://img.shields.io/badge/Contributors-10+-brightgreen"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow"/>
-  <img src="https://img.shields.io/github/stars/DevOpsVisions/question2answer-automation-toolkit?style=social"/>
-  <img src="https://img.shields.io/github/forks/DevOpsVisions/question2answer-automation-toolkit?style=social"/>
-</p>
 
 ---
 
