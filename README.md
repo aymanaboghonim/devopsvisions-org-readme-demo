@@ -64,22 +64,22 @@
 
 ## Who We Are
 
-DevOps Visions is the parent organization powering both the open DevOps community and the [Elmentor Program](https://github.com/ElmentorProgram).
+DevOps Visions powers the open DevOps community and the [Elmentor Program](https://github.com/ElmentorProgram).
 
-- **DevOps Visions** acts as the R&D and strategic backbone, providing advanced engineering and DevOps solutions for both internal and external needs.
-- **The Open DevOps Community** is a public, collaborative space for learning, sharing, and building together.
-- **The Elmentor Program** is a private, advanced mentoring initiative, supported by DevOps Visions for complex or strategic needs. See the [Elmentor Program GitHub Organization](https://github.com/ElmentorProgram) and the [Elmentor Landing Page](https://elmentor.devopsvisions.org) for more details.
+- **DevOps Visions**: R&D and strategic backbone for advanced engineering and DevOps solutions.
+- **Open DevOps Community**: Public, collaborative space for learning and building together.
+- **Elmentor Program**: Private, advanced mentoring initiative, supported by DevOps Visions. [Learn more](https://elmentor.devopsvisions.org).
 
-This structure ensures that the community leads and grows, while DevOps Visions provides professional expertise and support when needed.
+This structure lets the community lead and grow, with DevOps Visions providing expertise and support.
 
 ---
 
 ## 🌟 Highlights
 
-- **Professional R&D Backbone:** Strategic solutions for DevOps, cloud, and engineering challenges.
-- **Community-Driven:** Open source, collaborative, and focused on empowering contributors.
-- **Mentorship & Innovation:** Home of the Elmentor Program for advanced mentoring and leadership.
-- **Sustainable Impact:** Every action is driven by value, quality, and community growth.
+- Professional R&D backbone for DevOps, cloud, and engineering challenges
+- Community-driven, open source, and empowering contributors
+- Home of the Elmentor Program for advanced mentoring
+- Sustainable impact: value, quality, and community growth
 
 ---
 
