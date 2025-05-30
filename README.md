@@ -20,6 +20,18 @@ This structure ensures that the community leads and grows, while DevOps Visions 
 
 ---
 
+## 📊 Organization Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-9-blue"/>
+  <img src="https://img.shields.io/badge/Contributors-10+-brightgreen"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow"/>
+  <img src="https://img.shields.io/github/stars/DevOpsVisions/question2answer-automation-toolkit?style=social"/>
+  <img src="https://img.shields.io/github/forks/DevOpsVisions/question2answer-automation-toolkit?style=social"/>
+</p>
+
+---
+
 ## Table of Contents
 - [About DevOps Visions](#about-devops-visions)
 - [Active Projects](#active-projects)
